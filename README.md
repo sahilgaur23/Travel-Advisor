@@ -41,4 +41,4 @@ Data is returned in json format from server.
 
 Whenever user searches,allows its location to be used(instead of manually moving the map) a place it gets only latitude & longitude of a particular point, so I mantained the boundries of map [50,50,50,50] units away from the central point user got when searched.
 # Travel-Advisor
-# Travel-Advisor
+
