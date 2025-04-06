@@ -1,9 +1,7 @@
 
+# Travel-Advisor
 
 https://user-images.githubusercontent.com/86003701/171045111-7aed8dcb-673f-4d1b-b893-88f114224bd8.mp4
-
-
-
 
 
 Used 5 Api(google maps,google places,open weather map, geolocation, travel advisor) for fetching data.
@@ -40,5 +38,5 @@ Used useEffect,so that whenver user changes map either by searching,allowing to 
 Data is returned in json format from server.
 
 Whenever user searches,allows its location to be used(instead of manually moving the map) a place it gets only latitude & longitude of a particular point, so I mantained the boundries of map [50,50,50,50] units away from the central point user got when searched.
-# Travel-Advisor
+
 
