@@ -1,7 +1,7 @@
 
 # Travel-Advisor
 
-https://user-images.githubusercontent.com/86003701/171045111-7aed8dcb-673f-4d1b-b893-88f114224bd8.mp4
+https://github.com/user-attachments/assets/60ee89cf-27e9-44c6-acef-b48dbd04675c
 
 
 Used 5 Api(google maps,google places,open weather map, geolocation, travel advisor) for fetching data.
