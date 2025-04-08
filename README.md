@@ -12,7 +12,7 @@ A React(frontend) website which helps travellers by providing following data of 
 
 • Link to hotel/restaurant's tripadvisor page & link to its own website for more information.
 
-• Weather condition of thar place on map.
+• Weather condition of that place on map.
 
 
 # More details-:
