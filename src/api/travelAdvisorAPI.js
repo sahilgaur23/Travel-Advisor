@@ -30,7 +30,7 @@ export const getWeatherData = async (lat, lng) => {
         params: { lat, lon: lng },
         headers: {
           'x-rapidapi-key': '131467726dmsh78e4fc099f95345p1c61b9jsn37d7e09bdeb9',
-          'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com',  
+          'x-rapidapi-host': 'community-open-weather-map.p.rapidapi.com',
         },
       });
 
